@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/atul-singh-2809/Sentiment-Analysis#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
+    "custom-env": "^2.0.1",
     "express": "4.17.1",
+    "mongoose": "^5.10.6",
     "node": "^14.11.0",
     "nodemon": "^2.0.4"
   },
